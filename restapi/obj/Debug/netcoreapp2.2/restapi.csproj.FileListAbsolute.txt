@@ -1,0 +1,14 @@
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/bin/Debug/netcoreapp2.2/restapi.deps.json
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.json
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/bin/Debug/netcoreapp2.2/restapi.runtimeconfig.dev.json
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/bin/Debug/netcoreapp2.2/restapi.dll
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/bin/Debug/netcoreapp2.2/restapi.pdb
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.csprojAssemblyReference.cache
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cache
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.RazorAssemblyInfo.cs
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfoInputs.cache
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.AssemblyInfo.cs
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.RazorTargetAssemblyInfo.cache
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.dll
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.pdb
+/home/awesomecoding/SU_CPSC_5200_20WQ/assignments/1/restapi/obj/Debug/netcoreapp2.2/restapi.csproj.CoreCompileInputs.cache
